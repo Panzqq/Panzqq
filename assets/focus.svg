@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="196" viewBox="0 0 900 196" role="img" aria-label="Engineering Focus: WhatsApp Systems and Web Applications">
+  <defs>
+    <linearGradient id="panelLeft" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0E14"/>
+      <stop offset="100%" stop-color="#101722"/>
+    </linearGradient>
+    <linearGradient id="panelRight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090B10"/>
+      <stop offset="100%" stop-color="#0E121A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Left Flagship Panel (55% width for deliberate hierarchy, not copy-paste symmetry) -->
+  <rect x="1" y="1" width="498" height="194" rx="12" fill="url(#panelLeft)" stroke="#1F2735" stroke-width="1.2"/>
+  <rect x="24" y="24" width="32" height="20" rx="4" fill="#0D2233" stroke="#255A7A" stroke-width="1"/>
+  <text x="40" y="38" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" fill="#38BDF8">01</text>
+  <text x="66" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.1" fill="#94A3B8">CORE RUNTIME</text>
+
+  <text x="24" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#F8FAFC">WhatsApp Bot &amp; Socket Engineering</text>
+  <text x="24" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#CBD5E1">Custom CommonJS Baileys fork (Renvy-bail), SQLite auth/state,</text>
+  <text x="24" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#CBD5E1">session recovery, and automated media processing pipelines.</text>
+
+  <g transform="translate(24, 146)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="600">
+    <rect x="0" y="0" width="92" height="26" rx="5" fill="#121824" stroke="#263144" stroke-width="1"/>
+    <text x="46" y="17" text-anchor="middle" fill="#E2E8F0">Renvy-bail</text>
+
+    <rect x="100" y="0" width="114" height="26" rx="5" fill="#121824" stroke="#263144" stroke-width="1"/>
+    <text x="157" y="17" text-anchor="middle" fill="#E2E8F0">better-sqlite3</text>
+
+    <rect x="222" y="0" width="68" height="26" rx="5" fill="#121824" stroke="#263144" stroke-width="1"/>
+    <text x="256" y="17" text-anchor="middle" fill="#E2E8F0">FFmpeg</text>
+
+    <rect x="298" y="0" width="76" height="26" rx="5" fill="#121824" stroke="#263144" stroke-width="1"/>
+    <text x="336" y="17" text-anchor="middle" fill="#E2E8F0">Node 20+</text>
+  </g>
+
+  <!-- Right Panel (43% width) -->
+  <rect x="515" y="1" width="384" height="194" rx="12" fill="url(#panelRight)" stroke="#1E2430" stroke-width="1.2"/>
+  <rect x="538" y="24" width="32" height="20" rx="4" fill="#141923" stroke="#2B3446" stroke-width="1"/>
+  <text x="554" y="38" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" fill="#CBD5E1">02</text>
+  <text x="580" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.1" fill="#94A3B8">WEB &amp; TOOLING</text>
+
+  <text x="538" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#F8FAFC">Web Apps &amp; Media Tools</text>
+  <text x="538" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#CBD5E1">Fullstack dashboards, short-link utilities,</text>
+  <text x="538" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#CBD5E1">3D portfolios, and GitHub-backed CDNs.</text>
+
+  <g transform="translate(538, 146)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="600">
+    <rect x="0" y="0" width="72" height="26" rx="5" fill="#121824" stroke="#263144" stroke-width="1"/>
+    <text x="36" y="17" text-anchor="middle" fill="#E2E8F0">Next.js</text>
+
+    <rect x="80" y="0" width="78" height="26" rx="5" fill="#121824" stroke="#263144" stroke-width="1"/>
+    <text x="119" y="17" text-anchor="middle" fill="#E2E8F0">Three.js</text>
+
+    <rect x="166" y="0" width="82" height="26" rx="5" fill="#121824" stroke="#263144" stroke-width="1"/>
+    <text x="207" y="17" text-anchor="middle" fill="#E2E8F0">Supabase</text>
+
+    <rect x="256" y="0" width="66" height="26" rx="5" fill="#121824" stroke="#263144" stroke-width="1"/>
+    <text x="289" y="17" text-anchor="middle" fill="#E2E8F0">Vercel</text>
+  </g>
+</svg>
