@@ -4,7 +4,7 @@
 
 Building WhatsApp automation systems, custom socket engines, and fullstack Next.js web utilities from Indonesia.
 
-[Renvy Dashboard](https://dash.renvy.my.id) · [Portfolio](https://dev-panpan-portfolio.vercel.app)
+[panpan.biz.id](https://panpan.biz.id) · [Portfolio](https://dev-panpan-portfolio.vercel.app)
 
 ---
 
@@ -22,7 +22,7 @@ Building WhatsApp automation systems, custom socket engines, and fullstack Next.
 | **[dev-panpan-portfolio](https://github.com/Panzqq/dev-panpan-portfolio)** | Personal developer portfolio with 3D scenes and motion transitions | Next.js, TypeScript, Three.js | [Live Site](https://dev-panpan-portfolio.vercel.app) |
 | **[panpan-short-url](https://github.com/Panzqq/panpan-short-url)** | PanLink short URL generator, QR codes, click metrics, and media utilities | Next.js, TypeScript, Supabase | [Repository](https://github.com/Panzqq/panpan-short-url) |
 | **[chatai](https://github.com/Panzqq/chatai)** | Fullstack AI chat web application backed by Next.js App Router and OpenAI SDK | Next.js, TypeScript, Framer Motion | [Live Site](https://chatai-nine-beta.vercel.app) |
-| **[panpan-uploader](https://github.com/Panzqq/panpan-uploader)** | Web uploader storing assets directly to GitHub with custom CDN links | HTML, JavaScript, Vercel | [Live Site](https://panpan-uploader.vercel.app) |
+| **[panpan-uploader](https://github.com/Panzqq/panpan-uploader)** | Web uploader storing assets directly to GitHub with custom CDN links | HTML, JavaScript | [Repository](https://github.com/Panzqq/panpan-uploader) |
 | **[renvy-ai-web](https://github.com/Panzqq/renvy-ai-web)** | Renvy AI web chat frontend template using Next.js App Router | Next.js, TypeScript | [Repository](https://github.com/Panzqq/renvy-ai-web) |
 
 ### Stack & Tooling
